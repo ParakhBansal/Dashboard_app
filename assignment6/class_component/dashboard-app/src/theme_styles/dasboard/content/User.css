@@ -1,0 +1,41 @@
+.usertablerows{
+    background-color: #d9cfcf;
+    width: 100%;
+}
+.tablehead{
+    background-color: lightsteelblue;
+font-weight: bolder;
+}
+.userparent{
+    width: 100%;
+}
+.adduser{
+background-color: #9289b9;
+color: white;
+border: none;
+padding: 10px 20px;
+font-size: 20px;
+font-weight: bold;
+}
+.usertable{
+    border: none;
+    width: 100%;
+}
+.usertable td{
+    padding: 20px;
+    border: none;
+}
+.EditDelUSer{
+    padding: 0;
+    display: flex;
+   
+}
+.useredit{
+    background-color: #7aa565;
+    color: white;
+    font-size: 22px;
+    border: none;
+    margin-left: 10px;
+    font-weight: bold;
+    padding: 10px 20px;
+}

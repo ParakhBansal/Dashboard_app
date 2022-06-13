@@ -1,0 +1,8 @@
+.dash{
+    height: 90%;
+    display: flex;
+}
+.dashboard{
+    background-color: rgb(246, 240, 226);
+    height: 100vh;
+}

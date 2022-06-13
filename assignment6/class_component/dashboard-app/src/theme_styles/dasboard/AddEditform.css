@@ -1,0 +1,40 @@
+.addform{
+    margin: auto;
+    width: 60%;
+    margin-top:10%;
+    position: relative;
+    background-color: lightgrey;
+    border: none;
+    padding: 20px;
+}
+.addform input{
+    height: 40px;
+    font-size: 30px;
+    width: 60%;
+    padding: 2px 5px;
+    margin: 20px 0;
+    border: 2px solid white;
+}
+.submitaddform{
+    padding: 15px 10px;
+    font-size: 22px;
+    color: white;
+    border-radius: 10px;
+    margin: 20px 0;
+    font-weight: 800;
+    background-color: #698b25;
+    border: none;
+    cursor: pointer;
+}
+.closeform{
+    background-color: #851e1e;
+    padding: 10px;
+    
+position: absolute;
+color: white;
+font-size: 30px;
+top:-15px;
+right: -10px;
+border: none;
+cursor: pointer;
+}
